@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kohmari.github.io./sitemap.xml
+Sitemap: https://kohmari.github.io/sitemap.xml
