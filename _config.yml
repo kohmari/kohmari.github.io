@@ -245,6 +245,7 @@ keep_files:
 
 # Use al_folio_core as the theme runtime; local files can still override theme files.
 theme: al_folio_core
+theme_path: _theme
 
 # Plug-ins
 plugins:
