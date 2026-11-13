@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-09-07'
 papers:
   2Hn1VX0AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -12,7 +12,7 @@ papers:
   2Hn1VX0AAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: 'A firm level Environmental Kuznets Curve Evaluation: thresholds in a cross-sectional dataset of mid-sized companies'
-    year: '2025'
+    year: '2026'
   2Hn1VX0AAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Equity-based additional downstream allocation methods for Scope 3 emissions
@@ -21,6 +21,10 @@ papers:
     citations: 0
     title: Corporate climate ratings
     year: '2025'
+  2Hn1VX0AAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Do corporate climate ratings advance or hinder the Net-Zero transition? Four essays in sustainability strategy and economics
+    year: '2026'
   2Hn1VX0AAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: 'Firm-level evaluation of the environmental Kuznets curve: thresholds in cross-sectional data from small, medium and mid-sized enterprises'
@@ -42,6 +46,6 @@ papers:
     title: "Guide des labels climatiques \xE0 l'usage des \xE9tudiantes et \xE9tudiants de CentraleSup\xE9lec"
     year: '2025'
   2Hn1VX0AAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 0
     title: 'A review of corporate climate ratings: Assessing divergence from scientific expectations'
     year: '2026'
